@@ -30,9 +30,11 @@ The if-else statement provides an alternative path of execution. If the conditio
 Syntax:
 
 if condition:
+
     statement(s)
     
 else:
+
     statement(s)
 ### 3. if-elif-else Statement
 When multiple conditions need to be checked, the if-elif-else ladder is used. The program evaluates conditions sequentially from top to bottom. The first condition that evaluates to True gets executed, and the rest are skipped. If none of the conditions are true, the else block is executed.
@@ -40,10 +42,13 @@ When multiple conditions need to be checked, the if-elif-else ladder is used. Th
 Syntax:
 
 if condition1:
+
     statement(s)
 elif condition2:
+
     statement(s)
 else:
+
     statement(s)
 ### 4. Nested if Statements
 An if statement inside another if statement is known as a nested if. These are used when a condition depends on the result of another condition.

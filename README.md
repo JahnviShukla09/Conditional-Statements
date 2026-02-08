@@ -1,4 +1,4 @@
-Experiment 6: Study of Conditional Statements in Python
+#Experiment 6: Study of Conditional Statements in Python
 Name: Jahnvi Shukla
 
 PRN: 25070123055

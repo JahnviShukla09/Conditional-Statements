@@ -21,7 +21,8 @@ The if statement is the simplest form of a conditional statement. It executes a 
 
 Syntax:
 
-``` if condition: 
+```
+if condition: 
    statement(s)
 ``` 
 ### 2. if-else Statement
@@ -40,7 +41,8 @@ When multiple conditions need to be checked, the if-elif-else ladder is used. Th
 
 Syntax:
 
-``` if condition1:
+```
+if condition1:
 
     statement(s)
 elif condition2:

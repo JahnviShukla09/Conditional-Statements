@@ -1,29 +1,29 @@
-#Experiment 6: Study of Conditional Statements in Python
+# Experiment 6: Study of Conditional Statements in Python
 Name: Jahnvi Shukla
 
 PRN: 25070123055
 
 Batch: EnTC A-3
 
-Title
+## Title
 To study Conditional Statements in Python.
 
-Aim
+## Aim
 To understand and implement conditional statements (if, if-else, if-elif-else) in Python for decision-making, logical comparisons, and branching control flow based on given conditions.
 
-Theory: Conditional Statements in Python
+## Theory: Conditional Statements in Python
 Conditional statements are fundamental control structures in Python that allow a program to make decisions and execute different blocks of code based on given conditions. These conditions are logical expressions that evaluate to either True or False.
 
 In real-world programming, not all instructions are executed sequentially. Often, certain operations must be performed only when specific conditions are satisfied. Conditional statements make this possible by controlling the flow of execution.
 
-1. if Statement
+### 1. if Statement
 The if statement is the simplest form of a conditional statement. It executes a block of code only when the specified condition evaluates to True. If the condition is False, the code inside the if block is skipped.
 
 Syntax:
 
 if condition:
     statement(s)
-2. if-else Statement
+### 2. if-else Statement
 The if-else statement provides an alternative path of execution. If the condition is True, the if block is executed; otherwise, the else block is executed.
 
 Syntax:
@@ -32,7 +32,7 @@ if condition:
     statement(s)
 else:
     statement(s)
-3. if-elif-else Statement
+### 3. if-elif-else Statement
 When multiple conditions need to be checked, the if-elif-else ladder is used. The program evaluates conditions sequentially from top to bottom. The first condition that evaluates to True gets executed, and the rest are skipped. If none of the conditions are true, the else block is executed.
 
 Syntax:
@@ -43,10 +43,10 @@ elif condition2:
     statement(s)
 else:
     statement(s)
-4. Nested if Statements
+### 4. Nested if Statements
 An if statement inside another if statement is known as a nested if. These are used when a condition depends on the result of another condition.
 
-5. Relational and Logical Operators in Conditions
+### 5. Relational and Logical Operators in Conditions
 Conditional statements commonly use:
 
 Relational operators: >, <, >=, <=, ==, !=
@@ -76,7 +76,7 @@ Calculates the average marks obtained across five subjects.
 
 Assigns grades based on the calculated average:
 
-Grade A – Excellent performance
+Grade A – Excellent performance  
 Grade B – Very good performance
 Grade C – Good performance
 Grade D – Satisfactory performance

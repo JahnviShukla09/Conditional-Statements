@@ -1,4 +1,4 @@
-# Experiment 6: Study of Conditional Statements in Python
+# Experiment 6: Study of Conditional Statements 
 Name: Jahnvi Shukla
 
 PRN: 25070123055
@@ -43,13 +43,10 @@ Syntax:
 
 ```
 if condition1:
-
     statement(s)
 elif condition2:
-
     statement(s)
 else:
-
     statement(s)
 ``` 
 ### 4. Nested if Statements

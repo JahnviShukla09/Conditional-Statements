@@ -21,7 +21,8 @@ The if statement is the simplest form of a conditional statement. It executes a 
 
 Syntax:
 
-if condition:
+if condition: 
+
     statement(s)
 ### 2. if-else Statement
 The if-else statement provides an alternative path of execution. If the condition is True, the if block is executed; otherwise, the else block is executed.
@@ -30,6 +31,7 @@ Syntax:
 
 if condition:
     statement(s)
+    
 else:
     statement(s)
 ### 3. if-elif-else Statement
